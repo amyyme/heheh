@@ -1,2 +1,3 @@
-# heheh
-ellow this is my first repository
+# git setup
+Ellow this is my first repository...
+Author -Ahmad yar
